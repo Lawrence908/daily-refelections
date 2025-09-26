@@ -1,0 +1,38 @@
+{% extends "base.html" %}
+
+{% block title %}Add Quote - Daily Reflections{% endblock %}
+
+{% block content %}
+<div class="form-container">
+    <h2>Add a New Quote</h2>
+    <p>Share wisdom that inspires you. Your quote will be added to our daily rotation.</p>
+    
+    <form method="POST" class="quote-form">
+        <div class="form-group">
+            <label for="text">Quote Text *</label>
+            <textarea 
+                id="text" 
+                name="text" 
+                required 
+                placeholder="Enter the inspirational quote..."
+                rows="4"
+            ></textarea>
+        </div>
+        
+        <div class="form-group">
+            <label for="author">Author</label>
+            <input 
+                type="text" 
+                id="author" 
+                name="author" 
+                placeholder="Author name (leave blank for Anonymous)"
+            >
+        </div>
+        
+        <div class="form-actions">
+            <button type="submit" class="btn btn-primary">Add Quote</button>
+            <a href="{{ url_for('index') }}" class="btn btn-secondary">Cancel</a>
+        </div>
+    </form>
+</div>
+{% endblock %}
