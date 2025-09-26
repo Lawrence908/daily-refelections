@@ -1,47 +1,232 @@
 [
   {
     "text": "The journey of a thousand miles begins with one step.",
-    "author": "Lao Tzu"
+    "author": "Lao Tzu",
+    "tags": ["begin", "courage", "progress"]
   },
   {
     "text": "Life is what happens to you while you're busy making other plans.",
-    "author": "John Lennon"
+    "author": "John Lennon",
+    "tags": ["presence", "plans", "acceptance"]
   },
   {
     "text": "The future belongs to those who believe in the beauty of their dreams.",
-    "author": "Eleanor Roosevelt"
+    "author": "Eleanor Roosevelt",
+    "tags": ["dreams", "belief", "future"]
   },
   {
     "text": "In the middle of difficulty lies opportunity.",
-    "author": "Albert Einstein"
+    "author": "Albert Einstein",
+    "tags": ["difficulty", "opportunity", "mindset"]
   },
   {
     "text": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
-    "author": "Winston Churchill"
+    "author": "Winston Churchill",
+    "tags": ["resilience", "courage", "perseverance"]
   },
   {
     "text": "The only way to do great work is to love what you do.",
-    "author": "Steve Jobs"
+    "author": "Steve Jobs",
+    "tags": ["work", "passion", "excellence"]
   },
   {
     "text": "Yesterday is history, tomorrow is a mystery, today is a gift, that's why it's called the present.",
-    "author": "Bill Keane"
+    "author": "Bill Keane",
+    "tags": ["presence", "gratitude", "mindfulness"]
   },
   {
     "text": "It does not matter how slowly you go as long as you do not stop.",
-    "author": "Confucius"
+    "author": "Confucius",
+    "tags": ["progress", "patience", "perseverance"]
   },
   {
     "text": "Everything you've ever wanted is on the other side of fear.",
-    "author": "George Addair"
+    "author": "George Addair",
+    "tags": ["fear", "courage", "growth"]
   },
   {
     "text": "Believe you can and you're halfway there.",
-    "author": "Theodore Roosevelt"
+    "author": "Theodore Roosevelt",
+    "tags": ["belief", "confidence", "motivation"]
   },
   {
     "text": "The only impossible journey is the one you never begin.",
     "author": "Tony Robbins",
-    "added_date": "2025-09-26T04:21:06.331115"
+    "tags": ["begin", "action", "motivation"]
+  },
+  {
+    "text": "If your sharpest tool isn't between your ears, then your next tool should be a sharpener.",
+    "author": "Unknown",
+    "tags": ["learning", "humility", "improvement"]
+  },
+  {
+    "text": "When the water is high, fill up your cup.",
+    "author": "Unknown",
+    "tags": ["opportunity", "timing", "readiness"]
+  },
+  {
+    "text": "They have us fighting a culture war to stop us fighting a class war.",
+    "author": "Unknown",
+    "tags": ["society", "politics", "awareness"]
+  },
+  {
+    "text": "The opposite of courage isn't cowardice, it's apathy, despair.",
+    "author": "Unknown",
+    "tags": ["courage", "apathy", "values"]
+  },
+  {
+    "text": "The only man who can't change his mind is a man who hasn't got one.",
+    "author": "Edward Noyes Westcott",
+    "tags": ["open-mindedness", "wisdom", "change"]
+  },
+  {
+    "text": "A need shaped in the wild continues to be felt subjectively even if it is no longer really necessary for survival and reproduction. The tragedy of industrial agriculture is that it takes great care of the objective needs of animals while neglecting their subjective needs.",
+    "author": "Yuval Noah Harari",
+    "tags": ["ethics", "animals", "modernity"]
+  },
+  {
+    "text": "Live as if you were living already for the second time and as if you had acted the first time as wrongly as you are about to act now.",
+    "author": "Viktor Frankl",
+    "tags": ["responsibility", "meaning", "reflection"]
+  },
+  {
+    "text": "Play for the name on the front of the jersey, and they'll remember the name on the back.",
+    "author": "Tony Adams",
+    "tags": ["teamwork", "legacy", "humility"]
+  },
+  {
+    "text": "A man is pushed by drives, but he is pulled by values.",
+    "author": "Viktor Frankl",
+    "tags": ["values", "motivation", "psychology"]
+  },
+  {
+    "text": "If you get the message, hang up the phone. For psychedelic drugs are simply instruments, like microscopes, telescopes, and telephones. The biologist does not sit with eye permanently glued to the microscope, he goes away and works on what he has seen.",
+    "author": "Alan Watts",
+    "tags": ["insight", "practice", "moderation"]
+  },
+  {
+    "text": "Plan for what is difficult while it is easy. Do what is great while it is small.",
+    "author": "Sun Tzu",
+    "tags": ["strategy", "preparation", "discipline"]
+  },
+  {
+    "text": "You made a mistake if you tell someone, you fucked up if you try to hide it.",
+    "author": "Unknown",
+    "tags": ["honesty", "accountability", "integrity"]
+  },
+  {
+    "text": "Bad news never gets better with age.",
+    "author": "Unknown",
+    "tags": ["truth", "urgency", "communication"]
+  },
+  {
+    "text": "Accept death in a cheerful spirit, as nothing but the dissolution of the elements from which each living thing is composed. If it doesn't hurt the individual elements to change continually into one another, why are people afraid of all of them changing and separating? It's a natural thing. And nothing natural is evil.",
+    "author": "Marcus Aurelius",
+    "tags": ["mortality", "nature", "equanimity"]
+  },
+  {
+    "text": "We can easily forgive a child who is afraid of the dark; the real tragedy of life is when men are afraid of the light.",
+    "author": "Plato",
+    "tags": ["fear", "truth", "wisdom"]
+  },
+  {
+    "text": "An empty vessel makes the loudest sound, so they that have the least wit are the greatest babblers.",
+    "author": "Plato",
+    "tags": ["humility", "speech", "wisdom"]
+  },
+  {
+    "text": "People will forget what you said or what you did, but they will never forget how you made them feel.",
+    "author": "Maya Angelou",
+    "tags": ["kindness", "impact", "empathy"]
+  },
+  {
+    "text": "Hurt people hurt people, when they're unable to see love as an option.",
+    "author": "Unknown",
+    "tags": ["trauma", "compassion", "healing"]
+  },
+  {
+    "text": "TLDR: War=profit... The political class (and 'big money interests' that own them) have a vested interest in continuous conflict, hence they often have zero interest in promoting global peace. The average person doesn't benefit whatsoever. When the corrupt fucks in power advocate for conflicts abroad, often based on lies, it's important to remember that they're the only ones who win.",
+    "author": "Unknown",
+    "tags": ["politics", "power", "skepticism"]
+  },
+  {
+    "text": "We should not be haunted by the specter of being automated out of work. We should be excited by that. But the reason we're not excited by it is because we live in a society where if you don't have a job, you are left to die. And that is, at its core, our problem.",
+    "author": "Alexandria Ocasio-Cortez",
+    "tags": ["society", "work", "policy"]
+  },
+  {
+    "text": "Let go or be dragged.",
+    "author": "Unknown",
+    "tags": ["acceptance", "change", "attachment"]
+  },
+  {
+    "text": "Do you listen or just wait to speak.",
+    "author": "Unknown",
+    "tags": ["listening", "communication", "humility"]
+  },
+  {
+    "text": "Life is 10% what happens to you and 90% how you react to it.",
+    "author": "Charles R. Swindoll",
+    "tags": ["attitude", "agency", "resilience"]
+  },
+  {
+    "text": "There is nothing noble in being superior to your fellow man; true nobility is being superior to your former self.",
+    "author": "Ernest Hemingway",
+    "tags": ["humility", "self-improvement", "comparison"]
+  },
+  {
+    "text": "You won't notice your progress in life because you're always raising the bar.",
+    "author": "Unknown",
+    "tags": ["progress", "adaptation", "perspective"]
+  },
+  {
+    "text": "Society grows great when old men plant trees whose shade they know they shall never sit in.",
+    "author": "Greek Proverb",
+    "tags": ["legacy", "altruism", "future"]
+  },
+  {
+    "text": "Gotta have opposites, light and dark and dark and light, in painting. It's like in life. Gotta have a little sadness once in a while so you know when the good times come. I'm waiting on the good times now.",
+    "author": "Bob Ross",
+    "tags": ["contrast", "hope", "perspective"]
+  },
+  {
+    "text": "I turned 72 today. Here's 32 things I've learned that I hope help you in your journey: It's usually better to be nice than right. Nothing worthwhile comes easy. Work on a passion project, even just 30 minutes a day. It compounds. Become a lifelong learner (best tip). Working from 7am to 7pm isn't productivity. It's guilt. To be really successful become useful. Like houses in need of repair, problems usually don't fix themselves. Envy is like drinking poison expecting the other person to die. Don't hold onto your 'great idea' until it's too late. People aren't thinking about you as much as you think. Being grateful is a cheat sheet for happiness. (Especially today.) Write your life plan with a pencil that has an eraser. Choose your own path or someone will choose it for you. Never say, I'll never… Not all advice is created equal. Be the first one to smile. The expense of something special is forgotten quickly. The experience lasts a lifetime. Do it. Don't say something to yourself that you wouldn't say to someone else. It's not how much money you make. It's how much you take home. Feeling good is better than that 'third' slice of pizza. Who you become is more important than what you accomplish. Nobody gets to their death bed and says, I'm sorry for trying so many things. There are always going to be obstacles in your life. Especially if you go after big things. The emptiest head rattles the loudest. If you don't let some things go, they eat you alive. Try to spend 12 minutes a day in quiet reflection, meditation, or prayer. Try new things. If it doesn't work out, stop. At least you tried. NEVER criticize, blame, or complain. You can't control everything. Focus on what you can control. If you think you have it tough, look around. It's only over when you say it is. One hand washes the other and together they get clean. Help someone else.",
+    "author": "Unknown",
+    "tags": ["wisdom", "habits", "gratitude"]
+  },
+  {
+    "text": "We grieve as deeply as we loved, and some say it's just a continuation of love in absence. A high price to pay for the most beautiful experience life has to offer.",
+    "author": "Unknown",
+    "tags": ["grief", "love", "meaning"]
+  },
+  {
+    "text": "This young adventurer with his thirst for knowledge and his great capacity to love shows us how reality, if properly interpreted, can permeate a human being to the point of changing his or her way of thinking.",
+    "author": "Unknown",
+    "tags": ["growth", "learning", "love"]
+  },
+  {
+    "text": "A bird can just be a bird. When the sun rises it isn't accompanied by a feeling of dread. It's daily tasks are solely comprised of being a bird and being a bird still. Humans are a problem. There's no place for us. I cant just go out into the woods and be a human. But then again, I have a taste of the finer things and I'm an enlightened person that doesn't care to live in the woods anyway. So I have a job, I put in my 40+ hours a week, I pay someone for the privilege of having a roof, I drive 15 miles a day, and I take care of a dog. This lifestyle has cost me friends. It has cost me relationships. I cannot visit my family without it being rubbed in my face that I merely live like a king. That's right- a king. The fact of the matter is that I have a steel pod that lets me travel 65mph and traverse hundreds of miles. I have clean air, water, unspoiled food that I didn't have to even make. I have a bicycle for my mind that lets me express myself in ways that man was unable to for most of recorded history and an audience of thousands subscribed to see what I make. On a daily basis I get to watch cinematic productions that cost millions of dollars to produce. I can role-play with millions of people across the globe in virtual realities. I can, at a moments notice anywhere in the world, talk to people I know, wherever they are. I will likely live to see 90. Kings never lived like this. Presidents never lived like this. Yet I am apparently barely scraping by. I could work harder and get a better steel pod. A faster mind-bicycle. A bigger castle. But in the end, if I can't be happy with the amazing life I have right now, what hope is there that any of that is going to help. If my peers could get off my back I think I'd be okay.",
+    "author": "Unknown",
+    "tags": ["modern-life", "gratitude", "perspective"]
+  },
+  {
+    "text": "I've obviously had a lot more advantages than most folks, but I think there is something universal about a thirst for adventure. You don't need to have a sailboat or a bunch of money to go on an adventure! It seems like the passion has slowly been draining out of younger generations. Where the hell did it all go? Find something you care about, young man! What are you truly interested in? Make a plan for your life! Get yourself a cheap shitty fishing rod and see if there are any trout in that stream behind your neighbors house! Go hike up a mountain that's always been off in the distance! Plan some compelling vacation and save until you can make it happen! Netflix or your fantasy football team may be entertaining, but its not going to improve your life in the long run. Get yourself in over your head and have an adventure, goddamnit! Adventures will never come if you don't commit to challenging yourself. It has surprised me how many people make up excuses for why they can't achieve something. 'I could never do that, I'd need to make a million dollars!' or 'I'd go out sailing, but I have kids!' Others just rationalize their way into inaction. I suppose some are afraid of failure, but who the hell isn't? Plenty of people sail around with almost no money to their name and they see all the same glorious things I do! There are hundreds of families with kids cruising the Pacific! All this is to say that adventures are universal and in the end my background has very little to do with this voyage I embarked on. It had much more to do with being passionate about something and challenging myself to accomplish it!",
+    "author": "Unknown",
+    "tags": ["adventure", "courage", "youth"]
+  },
+  {
+    "text": "Alright, here goes. I'm old. What that means is that I've survived (so far) and a lot of people I've known and loved did not. I've lost friends, best friends, acquaintances, co-workers, grandparents, mom, relatives, teachers, mentors, students, neighbors, and a host of other folks. I have no children, and I can't imagine the pain it must be to lose a child. But here's my two cents. I wish I could say you get used to people dying. I never did. I don't want to. It tears a hole through me whenever somebody I love dies, no matter the circumstances. But I don't want it to 'not matter'. I don't want it to be something that just passes. My scars are a testament to the love and the relationship that I had for and with that person. And if the scar is deep, so was the love. So be it. Scars are a testament to life. Scars are a testament that I can love deeply and live deeply and be cut, or even gouged, and that I can heal and continue to live and continue to love. And the scar tissue is stronger than the original flesh ever was. Scars are a testament to life. Scars are only ugly to people who can't see. As for grief, you'll find it comes in waves. When the ship is first wrecked, you're drowning, with wreckage all around you. Everything floating around you reminds you of the beauty and the magnificence of the ship that was, and is no more. And all you can do is float. You find some piece of the wreckage and you hang on for a while. Maybe it's some physical thing. Maybe it's a happy memory or a photograph. Maybe it's a person who is also floating. For a while, all you can do is float. Stay alive. In the beginning, the waves are 100 feet tall and crash over you without mercy. They come 10 seconds apart and don't even give you time to catch your breath. All you can do is hang on and float. After a while, maybe weeks, maybe months, you'll find the waves are still 100 feet tall, but they come further apart. When they come, they still crash all over you and wipe you out. But in between, you can breathe, you can function. You never know what's going to trigger the grief. It might be a song, a picture, a street intersection, the smell of a cup of coffee. It can be just about anything...and the wave comes crashing. But in between waves, there is life. Somewhere down the line, and it's different for everybody, you find that the waves are only 80 feet tall. Or 50 feet tall. And while they still come, they come further apart. You can see them coming. An anniversary, a birthday, or Christmas, or landing at O'Hare. You can see it coming, for the most part, and prepare yourself. And when it washes over you, you know that somehow you will, again, come out the other side. Soaking wet, sputtering, still hanging on to some tiny piece of the wreckage, but you'll come out. Take it from an old guy. The waves never stop coming, and somehow you don't really want them to. But you learn that you'll survive them. And other waves will come. And you'll survive them too. If you're lucky, you'll have lots of scars from lots of loves. And lots of shipwrecks.",
+    "author": "Unknown",
+    "tags": ["grief", "love", "resilience"]
+  },
+  {
+    "text": "I try to remind myself that the current systems, powers that be, etc would prefer us all to be in one of two states of mind: complacent, or defeated. If we are complacent, we can convince ourselves that nothing is wrong and keep on mindlessly consuming. If we are defeated, we see the systems in place and the folly of constantly looking for the next thing to buy instead of organizing for change....but we feel powerless to do anything. Do the secret third thing and continue to find ways to resist. Look for ways to build resilient communities at a smaller scale- who needs help around you? What local political races are happening in your city that could have an impact on your daily life? What organizations are doing good work in your area? Also look for ways to cultivate your own resilience. You are allowed to find small moments of joy even though the world feels super fucked, and in fact it's probably one of the only ways to stay sane in this capitalist hellscape. You don't have to buy anything. I spend a lot of time in the woods, and find joy in watching birds and bugs and clouds. Sometimes if I need a pick-me-up I go out and pick up trash from my street. There's SO much awful shit going on in the world right now. It's extremely overwhelming. I grapple with the enormity of it daily. I still care about those things deeply, but I also try to keep my thoughts and actions centered on the choices I *can* make (which, yes, sometimes are about what to buy, or not buy) and more importantly, how I take actions that will make things better in my immediate surroundings.",
+    "author": "Unknown",
+    "tags": ["resilience", "community", "optimism"]
+  },
+  {
+    "text": "I'd like you to consider the advice of someone who has 15 combined years of oncology and hospice experience. I would guess that, over the years, I've taken care of literally thousands of patients going through the dying process. There are better ways to spend your remaining time and money. The impulse you have is normal and your feelings are valid. Getting a terminal diagnosis as a young adult is a pretty brutal reality check at an age where most of us still think we have plenty of time to chase our dreams, limitless potential, and have only started to accept that we aren't invincible. It's a very natural reaction to want to achieve something memorable before you go; it's your way of asserting power and deluding yourself into thinking you've cheated time and death in some way. Trouble is, it is a delusion. You, me, and anyone else who has ever lived will eventually be forgotten. For most of us, this happens pretty quickly -- maybe within a few generations. Getting really jacked before you die won't change that, and probably won't meaningfully improve your quality of life.",
+    "author": "Unknown",
+    "tags": ["mortality", "priorities", "hedonism"]
   }
 ]

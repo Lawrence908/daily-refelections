@@ -3,15 +3,18 @@ import os
 from datetime import datetime
 from flask import Flask, render_template, request, redirect, url_for, flash, jsonify
 from dotenv import load_dotenv
+from constants import (
+    SECRET_KEY,
+    QUOTES_FILE, 
+    STOIC_QUOTES_FILE, 
+    ENTRIES_FILE, 
+)
 
 load_dotenv()
 
 app = Flask(__name__)
-app.secret_key = os.environ.get('SECRET_KEY', 'dev-secret-key-change-me')
+app.secret_key = SECRET_KEY
 
-# Data file paths
-QUOTES_FILE = os.path.join('data', 'quotes.json')
-ENTRIES_FILE = os.path.join('data', 'user_entries.json')
 
 def load_json_file(filepath, default=None):
     """Load JSON file with error handling"""
