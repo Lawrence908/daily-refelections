@@ -1,0 +1,24 @@
+{% extends "base.html" %}
+
+{% block title %}Daily Reflections - Quote of the Day{% endblock %}
+
+{% block content %}
+<div class="quote-container">
+    <div class="quote-card">
+        <h2>Quote of the Day</h2>
+        <blockquote>
+            <p class="quote-text">"{{ quote.text }}"</p>
+            <footer class="quote-author">— {{ quote.author }}</footer>
+        </blockquote>
+    </div>
+    
+    <div class="actions">
+        <a href="{{ url_for('add_quote') }}" class="btn btn-primary">Add Your Quote</a>
+        <a href="{{ url_for('api_quote') }}" class="btn btn-secondary">Get JSON</a>
+    </div>
+</div>
+
+<div class="inspiration">
+    <p>Take a moment to reflect on today's wisdom. How might this quote apply to your life today?</p>
+</div>
+{% endblock %}
